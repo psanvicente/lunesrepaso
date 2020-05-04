@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Librosgeneral.xsl"?> 
+<libros> 
+  <libro>
+    <titulo>Fuente Ovejuna</titulo>
+    <autor>Lope de Vega</autor>
+    <isbn>84-9815-002-7</isbn>
+	<precio>24</precio>	
+  </libro> 
+  <libro>
+    <titulo>La Celestina</titulo>
+    <autor>Fernando de Rojas</autor>
+    <isbn>84-96390-96-9</isbn> 
+	<precio>32</precio>
+  </libro> 
+  <libro>
+    <titulo>El mundo amarillo</titulo>
+    <autor>Albert Espinosa</autor>
+    <isbn>84-9815-002-7</isbn> 
+	<precio>56</precio>
+  </libro> 
+ <libro>
+    <titulo>Aprende a decir no</titulo> 
+    <autor>Paola</autor>
+    <isbn>84-9815-002-7</isbn>
+	<precio>22</precio>
+  </libro>
+</libros> 
+
+
+

@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-mar-2020, 17:36:58
+    Author     : javier
+*/
+body{
+    background-image: url("imagenes/fondo.jpg");
+    background-attachment: fixed;
+}
+
+.cabecera
+{
+    width:100%;
+    
+     
+}
+
+#left{
+    float:left;
+}
+#right{
+   float:right;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+
+#principal{
+   
+    width:50%;
+}
+th{
+    text-align: center;
+    background-color: red;
+    font-size:x-large;
+}
+.libros{
+    margin: 100%;
+    text-align: center;
+    background-color: blanchedalmond;
+    
+} 
+.valores{
+    margin: 100%;
+    text-align: center;
+    background-color: blue;
+    
+} 
+
+#centrar
+{
+    height: 70%; 
+    width:70%;
+    margin-left: 420px; 
+    margin-top: 50px;
+    
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: times new roman;
+}
+h2{
+    color: blue;
+    text-align: center;
+    font-family: arial;
+}
+
